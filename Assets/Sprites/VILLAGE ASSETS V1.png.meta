@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 1e5e66a73f4612e47af9f691bfeb9e91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4119160316199878902
+    second: VILLAGE ASSETS V1_0
+  - first:
+      213: -8836391452358518655
+    second: VILLAGE ASSETS V1_1
+  - first:
+      213: -5766138235988967126
+    second: VILLAGE ASSETS V1_2
+  - first:
+      213: -8724218522737664743
+    second: VILLAGE ASSETS V1_3
+  - first:
+      213: 576671737078479778
+    second: VILLAGE ASSETS V1_4
+  - first:
+      213: 5351664736131634020
+    second: VILLAGE ASSETS V1_5
+  - first:
+      213: -4013683598558099472
+    second: VILLAGE ASSETS V1_6
+  - first:
+      213: -5665086792715978460
+    second: VILLAGE ASSETS V1_7
+  - first:
+      213: -1643930305275042530
+    second: VILLAGE ASSETS V1_8
+  - first:
+      213: -3746040922127110168
+    second: VILLAGE ASSETS V1_9
+  - first:
+      213: -2322244062094450024
+    second: VILLAGE ASSETS V1_10
+  - first:
+      213: 4765501898730916200
+    second: VILLAGE ASSETS V1_11
+  - first:
+      213: 2189857006579255151
+    second: VILLAGE ASSETS V1_12
+  - first:
+      213: 5635303485634560754
+    second: VILLAGE ASSETS V1_13
+  - first:
+      213: 2853265723432518910
+    second: VILLAGE ASSETS V1_14
+  - first:
+      213: -8643029829484748183
+    second: VILLAGE ASSETS V1_15
+  - first:
+      213: -5734522725416626490
+    second: VILLAGE ASSETS V1_16
+  - first:
+      213: 6013594273684341567
+    second: VILLAGE ASSETS V1_17
+  - first:
+      213: 2819306292655790246
+    second: VILLAGE ASSETS V1_18
+  - first:
+      213: 5740562063522206097
+    second: VILLAGE ASSETS V1_19
+  - first:
+      213: 5604729203220749878
+    second: VILLAGE ASSETS V1_20
+  - first:
+      213: -7582792868744861420
+    second: VILLAGE ASSETS V1_21
+  - first:
+      213: 437441240779749926
+    second: VILLAGE ASSETS V1_22
+  - first:
+      213: 3298864828648253966
+    second: VILLAGE ASSETS V1_23
+  - first:
+      213: -1700546565597049594
+    second: VILLAGE ASSETS V1_24
+  - first:
+      213: 2678070597841530740
+    second: VILLAGE ASSETS V1_25
+  - first:
+      213: -4652961796310300904
+    second: VILLAGE ASSETS V1_26
+  - first:
+      213: -7406485842803341501
+    second: VILLAGE ASSETS V1_27
+  - first:
+      213: -2701907160769290767
+    second: VILLAGE ASSETS V1_28
+  - first:
+      213: -6313916503685305863
+    second: VILLAGE ASSETS V1_29
+  - first:
+      213: -2459212837087074829
+    second: VILLAGE ASSETS V1_30
+  - first:
+      213: 6256373374342915419
+    second: VILLAGE ASSETS V1_31
+  - first:
+      213: -4683313795352241847
+    second: VILLAGE ASSETS V1_32
+  - first:
+      213: -814120754552637021
+    second: VILLAGE ASSETS V1_33
+  - first:
+      213: -80407506082596129
+    second: VILLAGE ASSETS V1_34
+  - first:
+      213: 2344113971989292825
+    second: VILLAGE ASSETS V1_35
+  - first:
+      213: -3772036906570324726
+    second: VILLAGE ASSETS V1_36
+  - first:
+      213: 7761733892034890560
+    second: VILLAGE ASSETS V1_37
+  - first:
+      213: 2479380976493201320
+    second: VILLAGE ASSETS V1_38
+  - first:
+      213: -3673102174738335826
+    second: VILLAGE ASSETS V1_39
+  - first:
+      213: -3688761182384666083
+    second: VILLAGE ASSETS V1_40
+  - first:
+      213: 1751336739767186105
+    second: VILLAGE ASSETS V1_41
+  - first:
+      213: 7822235474951215957
+    second: VILLAGE ASSETS V1_42
+  - first:
+      213: 7802642254255353504
+    second: VILLAGE ASSETS V1_43
+  - first:
+      213: -7810886181550959869
+    second: VILLAGE ASSETS V1_44
+  - first:
+      213: 494406397087024955
+    second: VILLAGE ASSETS V1_45
+  - first:
+      213: 1328319912799518836
+    second: VILLAGE ASSETS V1_46
+  - first:
+      213: 7502825934142114009
+    second: VILLAGE ASSETS V1_47
+  - first:
+      213: -2193006881504882859
+    second: VILLAGE ASSETS V1_48
+  - first:
+      213: 888539267000513048
+    second: VILLAGE ASSETS V1_49
+  - first:
+      213: -2188797278582657767
+    second: VILLAGE ASSETS V1_50
+  - first:
+      213: 3211328631508218890
+    second: VILLAGE ASSETS V1_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 462
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0cafbbb723a2930800000000000000
+      internalID: 4119160316199878902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 502
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1885fd19ac4de5580800000000000000
+      internalID: -8836391452358518655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 489
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21841e13df8affa0800000000000000
+      internalID: -5766138235988967126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 492
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d9659f9795de680800000000000000
+      internalID: -8724218522737664743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 412
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abf198b3efb00800800000000000000
+      internalID: 576671737078479778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 462
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4635c1229bee44a40800000000000000
+      internalID: 5351664736131634020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 462
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7022358088c48c0800000000000000
+      internalID: -4013683598558099472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 462
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4293862b3919161b0800000000000000
+      internalID: -5665086792715978460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 461
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e496e8169f29e0800000000000000
+      internalID: -1643930305275042530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 459
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef6982f0a3630cc0800000000000000
+      internalID: -3746040922127110168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 460
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892a91d445bb5cfd0800000000000000
+      internalID: -2322244062094450024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 460
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8694e4a6ab6722240800000000000000
+      internalID: 4765501898730916200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 458
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678e0a585fe36e10800000000000000
+      internalID: 2189857006579255151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 458
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2c4ceb9ae943e40800000000000000
+      internalID: 5635303485634560754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 448
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef44ef6ee06d89720800000000000000
+      internalID: 2853265723432518910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 472
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e47ea92acd0880800000000000000
+      internalID: -8643029829484748183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 455
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6132bc6f1ea60b0800000000000000
+      internalID: -5734522725416626490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 416
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33474a6124947350800000000000000
+      internalID: 6013594273684341567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 403
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a895c6c220302720800000000000000
+      internalID: 2819306292655790246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 395
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191135f28c29aaf40800000000000000
+      internalID: 5740562063522206097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 447
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1b34e38ff7cd40800000000000000
+      internalID: 5604729203220749878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 416
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419e81daf0284c690800000000000000
+      internalID: -7582792868744861420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 416
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a78c6ad7a121600800000000000000
+      internalID: 437441240779749926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 416
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aeb91651ce7cd20800000000000000
+      internalID: 3298864828648253966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 439
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dc39198e17668e0800000000000000
+      internalID: -1700546565597049594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 416
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f23cb050b6a2520800000000000000
+      internalID: 2678070597841530740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 432
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817067116eb5d6fb0800000000000000
+      internalID: -4652961796310300904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 438
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3474fb10e50e63990800000000000000
+      internalID: -7406485842803341501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_28
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 435
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd134aa0c5e08ad0800000000000000
+      internalID: -2701907160769290767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 435
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f96c5874667068a0800000000000000
+      internalID: -6313916503685305863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_30
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 435
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5285244fe1fddd0800000000000000
+      internalID: -2459212837087074829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 435
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55ebefaf6a13d650800000000000000
+      internalID: 6256373374342915419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 427
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949d7589ae6810fb0800000000000000
+      internalID: -4683313795352241847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 422
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9fd94bc79a3b4f0800000000000000
+      internalID: -814120754552637021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 403
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdafbaa9cc552eef0800000000000000
+      internalID: -80407506082596129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 415
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a375ec37f78020800000000000000
+      internalID: 2344113971989292825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 406
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0566382b6807abc0800000000000000
+      internalID: -3772036906570324726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 377
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b89d3f9d737bb60800000000000000
+      internalID: 7761733892034890560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 373
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a70dbe9cd7886220800000000000000
+      internalID: 2479380976493201320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 304
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7b1037805860dc0800000000000000
+      internalID: -3673102174738335826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a46be9f33eeccc0800000000000000
+      internalID: -3688761182384666083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 277
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2f9ef5c7ffd4810800000000000000
+      internalID: 1751336739767186105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 336
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b1de178b92e8c60800000000000000
+      internalID: 7822235474951215957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 301
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee7524acd884c60800000000000000
+      internalID: 7802642254255353504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_44
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 301
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303d5a7d6682a9390800000000000000
+      internalID: -7810886181550959869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 232
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b378d09affb7cd600800000000000000
+      internalID: 494406397087024955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_46
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 263
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4704e764ce32f6210800000000000000
+      internalID: 1328319912799518836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 263
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d801287f646f1860800000000000000
+      internalID: 7502825934142114009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 245
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f0aed3cdfd091e0800000000000000
+      internalID: -2193006881504882859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 233
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8123d8271c9b45c00800000000000000
+      internalID: 888539267000513048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 178
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d2dbcc874df91e0800000000000000
+      internalID: -2188797278582657767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VILLAGE ASSETS V1_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 178
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04b612406ee09c20800000000000000
+      internalID: 3211328631508218890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
