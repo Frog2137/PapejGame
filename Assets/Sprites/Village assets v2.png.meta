@@ -351,13 +351,13 @@ TextureImporter:
       name: Village assets v2_0
       rect:
         serializedVersion: 2
-        x: 15
+        x: 16
         y: 338
-        width: 153
-        height: 159
+        width: 151
+        height: 161
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 2, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 52.5, y: 57.5}
         - {x: 34.5, y: 69.5}
