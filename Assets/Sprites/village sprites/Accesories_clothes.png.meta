@@ -86,6 +86,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -95,8 +97,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -117,9 +119,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -624,6 +629,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Accesories_clothes_24: 8356797223464169020
+      Accesories_clothes_40: 3668790454441616640
+      Accesories_clothes_14: 5797926305592116940
+      Accesories_clothes_22: -7896552835882275465
+      Accesories_clothes_26: -2225419295904787710
+      Accesories_clothes_42: 5130328490109959295
+      Accesories_clothes_6: 8872471735919542262
+      Accesories_clothes_35: 3974852232045923865
+      Accesories_clothes_37: -5374399565318799021
+      Accesories_clothes_17: -1271143807091395043
+      Accesories_clothes_9: -7944277453070557624
+      Accesories_clothes_15: 948057305352414639
+      Accesories_clothes_16: -5420271077289735469
+      Accesories_clothes_28: 4368710760508525035
+      Accesories_clothes_10: -4301591897036552208
+      Accesories_clothes_27: 8414904939687631971
+      Accesories_clothes_29: 6259005258642692881
+      Accesories_clothes_21: -4640875911775570123
+      Accesories_clothes_13: 8134345317712045030
+      Accesories_clothes_23: 1340540890559414526
+      Accesories_clothes_12: 9177958074232092394
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

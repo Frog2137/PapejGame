@@ -137,6 +137,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -146,8 +148,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -168,9 +170,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -1032,6 +1037,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Poles_14: -78825312284797477
+      Poles_2: -4701496446004766043
+      Poles_21: 2428881253638906131
+      Poles_22: -368015044824580178
+      Poles_12: 1800262215356829594
+      Poles_33: 2934014734957196060
+      Poles_32: 285752983799440209
+      Poles_49: -2797814137257543413
+      Poles_18: 378298353598129466
+      Poles_9: -5444160589812905483
+      Poles_10: 5130736836754252981
+      Poles_17: 3549134207581220743
+      Poles_1: 6321950349944329382
+      Poles_16: -7302524717491687782
+      Poles_8: -3103927735496987268
+      Poles_11: -1450668398986907879
+      Poles_4: -5943919803030477018
+      Poles_29: -6305137352549863968
+      Poles_31: 8544072746282730753
+      Poles_6: -818164733881534618
+      Poles_30: -2748533594542258698
+      Poles_5: 4691191013247157991
+      Poles_45: -1897578756546901057
+      Poles_15: 9186777909789637316
+      Poles_36: 4817159756403257312
+      Poles_44: -3285453826172962505
+      Poles_47: -2980700956697920725
+      Poles_7: -2064677116940362036
+      Poles_46: 2202604544655386867
+      Poles_20: -2056082128480374023
+      Poles_48: -505084993204723364
+      Poles_0: -704048016973295337
+      Poles_27: 3526174948454892413
+      Poles_13: 7625844622966435813
+      Poles_35: -8727176312824582439
+      Poles_28: -1257895423448455887
+      Poles_19: -3166709130309010327
+      Poles_3: -1437378907074872
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
